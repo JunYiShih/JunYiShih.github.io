@@ -7,7 +7,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://JunYiShi.github.io/
+url: http://JyunYiShih.github.io/
 author: Fábio Madeira
 
 # edit this section with your information
@@ -15,8 +15,7 @@ author: Fábio Madeira
 # for a normal use at the base of the server change it to "/"
 baseurl: "/"
 title: Junyi Shi's Personal Page
-name: Junyi Shi \
-施俊屹
+name: Junyi \Shi 施俊屹
 email: syf758521@foxmail.com
 email_full: mailto:syf758521@foxmail.com
 website: JunyiShi.github.io
@@ -29,7 +28,7 @@ google_maps:
 address:
   street: 
   postcode: Graduate
-  city: Harbin
+  city: HIT
   country: China
 google_analytics: 
 
