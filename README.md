@@ -1,2 +1,2 @@
 # JyunYiShih.github.io
-Junyi Shi's Website
+Junyi Shi's Personal Page
